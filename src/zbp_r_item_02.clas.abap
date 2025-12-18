@@ -1,15 +1,5 @@
-class ZBP_R_ITEM_02 definition
-  public
-  abstract
-  final
-  create public .
-
-public section.
-protected section.
-private section.
+CLASS zbp_r_item_02 DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zr_item_02.
 ENDCLASS.
 
-
-
-CLASS ZBP_R_ITEM_02 IMPLEMENTATION.
+CLASS zbp_r_item_02 IMPLEMENTATION.
 ENDCLASS.
